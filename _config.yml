@@ -1,0 +1,29 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Daniel Gil Bayo
+tagline:          'A blog about Grappling and Code, my totally unrelated passions.'
+url:              http://danielbayo.com
+shorturl:         danielbayo.com
+
+author:
+  name:           'Daniel Gil Bayo'
+  url:            https://twitter.com/d4ngb
+
+paginate:         1
+
+# Custom vars
+version:          1.0.0
+
+github:
+  repo:           https://github.com/danielgil/danielgil.github.io
+
+gems:
+  - jekyll-redirect-from
+
+
