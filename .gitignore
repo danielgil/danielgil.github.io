@@ -1,0 +1,10 @@
+.idea
+Gemfile.lock
+pkg
+spec/fixtures
+.rspec_system
+.vagrant
+~*
+_site
+
+
